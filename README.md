@@ -22,7 +22,7 @@ This GitHub is a place for me to:
 ## 📬 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)
-- [Personal site](https://callumtaylorwilliams.carrd.co) *(if set up)*
+- [Personal site](https://callumtaylorwilliams.carrd.co)
 
 > “Discipline is choosing between what you want now and what you want most.”
 
