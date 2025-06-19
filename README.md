@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Callum Taylor Williams
+# 👋 Hi, I'm MajesticFzar
 
-I'm a Digital Marketing Executive. I’m passionate about open-source intelligence (OSINT), signal interception, and digital privacy — always curious about how systems work and how data flows.
+I’m passionate about open-source intelligence (OSINT), signal interception, and digital privacy — always curious about how systems work and how data flows.
 
 ## 🚀 What I'm Interested In
 
@@ -18,10 +18,6 @@ This GitHub is a place for me to:
 - Share shell scripts, configs, and Docker setups
 - Track my OSINT tools and data hygiene methods
 - Explore signal analysis and technical curiosities
-
-## 📬 Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/callumtaylorwilliams/)
 
 > “Discipline is choosing between what you want now and what you want most.”
 
