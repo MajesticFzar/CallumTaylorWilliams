@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Callum Taylor Williams
 
-I'm a Digital Marketing Executive transitioning into military service with the Royal Navy. I’m passionate about open-source intelligence (OSINT), signal interception, and digital privacy — always curious about how systems work and how data flows.
+I'm a Digital Marketing Executive. I’m passionate about open-source intelligence (OSINT), signal interception, and digital privacy — always curious about how systems work and how data flows.
 
 ## 🚀 What I'm Interested In
 
